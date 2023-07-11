@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371143008939",
+    "project_id": "flutter-firebase-palm",
+    "storage_bucket": "flutter-firebase-palm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371143008939:android:f6d7d1be9bb1985254cdee",
+        "android_client_info": {
+          "package_name": "com.example.flutter_palm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371143008939-d2mumabnfif7675tc72hqie9ns0ggksg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcMD6SzU_SXE1xMQpJgNlUkkHmjlgnEA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371143008939-d2mumabnfif7675tc72hqie9ns0ggksg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
